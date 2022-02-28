@@ -15,7 +15,7 @@ In cadrul laboratorului se pot obtine maxim 40 de puncte, dupa cum urmeaza: 30 d
 ### Proiect
 Cerinta este sa creati o aplicatie web pe o tema la alegerea voastra. (Ideea principala este ca aplicatia sa aiba sens)
 Pe parcursul semestrului vor exista 3 verificari ale proiectului, care vor viza urmatoarele aspecte:
-* **HTML + CSS (10 puncte) - termen saptamana 5 (24-25 martie)**
+* **HTML + CSS (10 puncte) - termen saptamana 6 (24-25 martie)**
   * fisiere separate de HTML si CSS (0.5 puncte)
   * folosirea cu sens a cel putin 4 tag-uri semantice (2 puncte)
   * aplicarea stilului folosind clase si id-uri pe cat mai multe elemente din pagina (0.5)
