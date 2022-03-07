@@ -1,0 +1,161 @@
+.resume-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.resume-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.resume-date {
+    display: inline;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    float: right;
+    margin-top: -5%;
+    background-color: #5bc0de;
+    border-radius: 4px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+
+.skills {
+    padding: 0;
+    margin-bottom: 36px;
+    list-style-type: none;
+}
+
+.resume-aside {
+    border-left: 1px solid #f1f1f1;
+    padding-left: 20px;
+}
+
+.skills-item {
+    margin-bottom: 15px;
+    border: 1px solid #f1f1f1;
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
+}
+
+.skills-bg {
+    padding: 2px 5px;
+    display: block;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.skills-bg:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: linear-gradient(135deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent); 
+    background-size: 5rem 5rem;
+    z-index: 1;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow: hidden;
+}
+
+.photoshop {
+    background: #5db85c;
+    width: 45%;
+    border-radius: 4px;
+}
+
+.ilustrator {
+    width: 90%;
+    background: #e67e22;
+    border-radius: 4px;
+}
+
+.indesign {
+    width: 60%;
+    background: #8e44ad;
+    border-radius: 4px;
+  }
+  
+  .xd {
+    width: 45%;
+    background: #f1c40f;
+    border-radius: 4px;
+  }
+  
+  .sketch {
+    width: 75%;
+    background: #2c3e50;
+    border-radius: 4px;
+  }
+  .office {
+    width: 60%;
+    background: #c0392b;
+    border-radius: 4px;
+  }
+  
+  .linux {
+    width: 65%;
+    background: #555;
+    border-radius: 4px;
+  }
+  
+  .user {
+    width: 30%;
+    background: #2ecc71;
+    border-radius: 4px;
+  }
+  
+  .typography {
+    width: 90%;
+    background: #e67e22;
+    border-radius: 4px;
+  }
+  
+  .web {
+    width: 65%;
+    background: #8e44ad;
+    border-radius: 4px;
+  }
+  
+  .html {
+    width: 50%;
+    background: #2ecc71;
+    border-radius: 4px;
+  }
+  
+  .php {
+    width: 80%;
+    background: #e67e22;
+    border-radius: 4px;
+  }
+  
+  .javascript {
+    width: 95%;
+    background: #8e44ad;
+    border-radius: 4px;
+  }
+  
+  .ruby {
+    width: 65%;
+    background: #f1c40f;
+    border-radius: 4px;
+  }
+  
+  .python {
+    width: 80%;
+    background: #2c3e50;
+    border-radius: 4px;
+  }
