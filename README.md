@@ -22,3 +22,9 @@ Pe parcursul semestrului vor exista 3 verificari ale proiectului, care vor viza 
   * layout pe coloane folosind flexbox si/sau grid (2 puncte)
   * sa aveti cel putin 2 pagini legate intre ele prin ancora (1 punct)
   * site-ul sa fie responsive pentru urmatoarele dimenstiuni: latime mai mica de 768px, latime intre 768px si 990px, latime mai mare de 990px (4 puncte)
+* **Javascript (11 puncte) - termen ?**
+  * fisere separate de JavaScript (0.5)
+  * Operatii asupra DOM-ului (create, edit, delete pe noduri, folosirea datelor din noduri)  (4 puncte)
+  * Evenimente de mouse si tastatura, direct pe element dar si cu addEventListener (2 puncte)
+  * Folosirea Ajax pentru POST, PUT, GET, DELETE (4 puncte)
+  * Folosirea json-server (0.5 puncte)
